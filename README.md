@@ -25,3 +25,14 @@ A student-friendly academic support web app designed to help you calculate CGPA,
 
 ## 📂 File Structure
 
+cgpa-booster/
+├── index.html # Home Page
+├── calculator.html # CGPA Calculator
+├── login.html # Login Page
+├── register.html # Registration Page
+├── materials.html # Study Material Page
+├── forum.html # Discussion Forum
+├── style.css # Global styling
+├── auth.js # JS for login/register
+├── calculator.js # JS logic for CGPA (optional)
+├── files/ # Downloadable study materials
